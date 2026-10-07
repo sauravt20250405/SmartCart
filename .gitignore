@@ -1,0 +1,16 @@
+# Datasets (Excluded as per repository guidelines)
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python / Environment
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.vscode/
+.idea/
